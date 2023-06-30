@@ -2,4 +2,4 @@
 This colab is made by using the one-click installer that the original oobabooga fork has.
 Link to the colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ManuDash5/Private-things/blob/main/TEXT_GEN_WEBUI_8K.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/ManuDash5/Textgen_webui_NEW/blob/main/TEXT_GEN_WEBUI_8K.ipynb])

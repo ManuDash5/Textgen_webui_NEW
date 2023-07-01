@@ -1,5 +1,6 @@
 # Text Generation WebUI
 This is the repository for my colab, is made by using the one-click installer that the original oobabooga fork has.
+The loader used is obviously ExLLaMa, and the .zip file is the backbone of this operation.
 
 Link to the colab:
 
